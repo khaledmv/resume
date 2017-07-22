@@ -1,0 +1,166 @@
+body{margin: 0 auto;}
+section{
+    width: 1000px;
+    margin: 0 auto;
+}
+img{
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 70%;
+}
+
+.profile{
+    overflow: hidden;
+    background-color: #e2e2d8;
+    /* border-radius: 50%; */
+    height: 35%;
+    border-bottom: 4px solid grey;
+    /* box-sizing: border-box; */
+    border-bottom-color: #f0d415;
+}
+.photo{
+    width: 15%;
+    height: 70%;
+    float: left;
+    border-radius: 50%;
+    /* padding: 10; */
+    box-sizing: border-box;
+    margin: 0 20;
+}
+.name{
+    float: left;
+    width: 40%;
+    overflow: hidden;
+    padding: 22;
+    text-align: left;
+    margin: 0 auto;
+}
+.name h1{
+
+color: #353737;
+
+text-transform: uppercase;
+
+font-size: 25px;
+
+text-align: center;
+}
+
+.name p{
+
+margin: 5 22;
+
+color: #8a8a8a;
+
+text-transform: uppercase;
+
+text-align: center;
+}
+.adress{
+    float: left;
+    /* text-transform: uppercase; */
+    font-size: 17px;
+    box-sizing: border-box;
+    /* margin: 4; */
+    margin-top: 18px;
+}
+.adress ul{
+    list-style: none;
+}
+.adress ul a{}
+
+.profile-details{
+    background-color: #fbf6f6;
+    margin: 0 auto;
+    width: 100%;
+    overflow: hidden;
+    border-bottom: 2px solid grey;
+}
+.skill{
+    margin: 0 auto;
+    width: 100%;
+    float: left;
+}
+.titale{
+    width: 30%;
+    float: left;
+}
+.titale h2{
+    
+text-transform: uppercase;
+    
+margin: 20;
+    
+padding: 22;
+    
+color: #f0d415;
+}
+.skil-details{
+    width: 70%;
+    float: left;
+}
+.skil-details p{margin: 41 auto;text-transform: uppercase;font-size: 16;font-weight: 600;}
+
+.footer{
+    /* background: white; */
+    background-color: #646969;
+    overflow: hidden;
+    width: 100%;
+    border-bottom: 2px solid grey;
+    box-sizing: border-box;
+}
+.skil-details h3{
+    text-decoration: none;
+    text-transform: initial;
+}
+.skil-details ul{
+    list-style: none;
+}
+.skil-details ul li{}
+.nam{
+    float: left;
+    width: 50%;
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+.adres{
+    margin-top: 31px;
+    text-transform: initial;
+    float: left;
+    /* list-style: none; */
+    width: 50%;
+    /* margin-left: 45px; */
+    color: white;
+}
+.adres ul{
+    list-style: none;
+}
+.nam h1{
+    text-transform: uppercase;
+    font-size: 30;
+    /* margin: 20 auto; */
+    overflow: hidden;
+    padding: 0 auto;
+    text-align: center;
+    margin-top: 43px;
+    margin-left: 69px;
+}
+.nam p {
+    text-transform: uppercase;
+    font-size: 15;
+    text-align: center;
+    margin-left: 57px;
+}
+.adres ul{}
+.adres ul li{}
+table{
+    width: 100%;
+    margin-left: 38px;
+}
+
+
+span{}
+
+
